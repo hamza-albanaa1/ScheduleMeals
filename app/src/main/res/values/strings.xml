@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Day Meals</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">Add Item</string>
+
+    <string name="save_button">Save</string>
+    <string name="sure_text">Are you sure?</string>
+    <string name="no_text">no</string>
+    <string name="yes_text">yes</string>
+    <string name="edit_time">Edit Item</string>
+    <string name="update_text">Update</string>
+    <string name="Add_item">Add New day</string>
+    <string name="enter_item">Enter Day</string>
+    <string name="enter_break_fast">Breakfast</string>
+    <string name="enter_lunch">Lunch</string>
+    <string name="enter_dinner">Dinner</string>
+    <string name="Save_Button">Save new Day</string>
+    <string name="edit">Edit</string>
+</resources>
